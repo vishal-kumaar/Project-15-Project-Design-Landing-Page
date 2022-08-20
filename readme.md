@@ -13,7 +13,7 @@ This assignment is written in **HTML5 and CSS3** which is given in **"JavaScript
 ## 📌 Screenshot
 <br>
 
-![Screenshot](./screenshot/1.PNG "Template Screenshot")
+![Screenshot](./screenshot/1.png "Template Screenshot")
 
 <br>    
 
