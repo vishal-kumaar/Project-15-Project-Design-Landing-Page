@@ -47,6 +47,11 @@ nav {
     color: #FF3343;
 }
 
+.ham-burger {
+    display: none;
+    width: 2rem;
+}
+
 
 /* Home Sub-Section */
 
@@ -386,4 +391,102 @@ footer {
 .social-media img {
     width: 1.5rem;
     height: 1rem;
+}
+
+
+/* Media Queries */
+
+@media screen and (max-width: 835px) {
+    .list-item {
+        margin-left: 20px;
+    }
+    .home-container {
+        flex-direction: column;
+    }
+    .profile-pic {
+        width: 100%;
+    }
+    .home-content {
+        text-align: center;
+        margin-top: 1rem;
+    }
+}
+
+@media screen and (max-width:670px) {
+    .list {
+        display: none;
+    }
+    .ham-burger {
+        display: block;
+    }
+    .project-cards {
+        flex-direction: column;
+    }
+    .project-card {
+        width: 100%;
+        margin: auto;
+        margin-top: 1.5rem;
+    }
+    .project-statistics {
+        flex-direction: column;
+        margin-top: 3rem;
+    }
+    .project-statistics-contents {
+        flex-direction: column;
+        width: 100%;
+    }
+    .experience {
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+    .project-statistics-content {
+        width: 100%;
+        margin: 2% auto;
+    }
+    .features-top {
+        flex-direction: column;
+    }
+    .features-heading {
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+    .feature-cards {
+        flex-direction: column;
+        align-items: center;
+    }
+    .feature-card {
+        width: 100%;
+    }
+    .feature-img {
+        height: 20rem;
+    }
+    .contact-section {
+        flex-direction: column;
+    }
+    .contact-content {
+        width: 80%;
+        text-align: center;
+        margin-bottom: 1.5rem;
+    }
+    .contact-content h1 {
+        margin-bottom: 1rem;
+        font-size: 2rem;
+    }
+}
+
+@media screen and (max-width:400px) {
+    footer {
+        flex-direction: column;
+    }
+    .bottom-logo {
+        position: static;
+        margin-bottom: 2rem;
+    }
+}
+
+@media screen and (max-width:300px) {
+    .nav-item {
+        display: block;
+        margin-bottom: 1rem;
+    }
 }
