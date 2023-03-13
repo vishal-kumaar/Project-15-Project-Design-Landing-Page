@@ -1,4 +1,4 @@
-## 🔗Project 15 Link
+## 🔗Project Link
 https://html5-css3-project-15.netlify.app/
 
 # ✨ Project 15 : Product Design Landing Page ✨
