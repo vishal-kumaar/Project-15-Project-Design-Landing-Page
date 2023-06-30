@@ -1,5 +1,5 @@
 ## 🔗Project Link
-https://html5-css3-project-15.netlify.app/
+https://design-landing-site.vercel.app/
 
 # ✨ Project 15 : Product Design Landing Page ✨
 This assignment is written in **HTML5 and CSS3** which is given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**.
