@@ -1,5 +1,5 @@
 ## 🔗Project Link
-https://design-landing-site.vercel.app/
+https://vishal-kumaar.github.io/Project-15-Project-Design-Landing-Page/
 
 # ✨ Project 15 : Product Design Landing Page ✨
 This assignment is written in **HTML5 and CSS3** which is given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**.
